@@ -188,7 +188,7 @@
         },
         "notifications": {
             "decky_updates_label": "Atualização do Decky disponível",
-            "header": "Noificações",
+            "header": "Notificações",
             "plugin_updates_label": "Atualizações de Plugin disponíveis"
         },
         "other": {
